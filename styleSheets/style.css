@@ -1,0 +1,76 @@
+
+h1 
+{
+    font-size: 60px; 
+    text-align: center; 
+    font-family: "Inconsolata", sans-serif;
+}
+
+p, li
+{
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+}
+
+.bold 
+{
+    font-weight: bold;
+}
+
+li.bold 
+{
+    font-style: italic;
+}
+
+p.bold
+{
+    text-decoration: underline;
+}
+
+.licolor
+{
+    color: rgb(243, 213, 40);
+}
+
+.titlecol
+{
+    color:rgb(229, 136, 252)
+}
+
+html
+{
+    background-color: rgb(58, 206, 70);
+}
+
+body {
+    background-color:rgb(255, 0, 0);
+    width: 600px;
+    margin: 0 auto; 
+    padding: 0 20px 20px 20px;
+    border: 5px solid black;
+}
+
+h1 
+{
+    margin: 0;
+    padding: 20px 0;
+
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    width: 70%;
+    /* height: auto; */
+}
+
+div.coolbox {
+    margin: 10px;
+    border: lightblue dotted 3px;
+    padding: 10px 20px
+}
+
+span.language {
+    font-family: 'Courier New', Courier, monospace;
+}
