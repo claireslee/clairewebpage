@@ -4,8 +4,12 @@ h1 {
 }
 
 html {
-    background-color: lightskyblue;
+    background-color: rgb(0, 0, 0);
 
+}
+
+.titleColor {
+    color:antiquewhite;
 }
 
 .options {
