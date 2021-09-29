@@ -1,0 +1,23 @@
+
+h1 {
+    text-align: center; 
+}
+
+html {
+    background-color: rgb(0, 0, 0);
+
+}
+
+.jokeColor {
+    color:antiquewhite;
+}
+
+.options {
+    text-align:center;
+
+}
+.options img {
+    display:inline-block;
+    width: 30%;
+    margin:0 1% 0 1%;
+}
