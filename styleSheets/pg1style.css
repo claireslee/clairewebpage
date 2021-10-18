@@ -1,5 +1,4 @@
 
-
 .redButton {
     position: absolute;
     top: 50%;
@@ -12,11 +11,13 @@
     max-height: 100%;
 }
 
+
 .oneB {
     position;
     relative;
 }
 
+
 html {
-    background-color: rgb(233, 34, 34);
+    height: 100%;
 }

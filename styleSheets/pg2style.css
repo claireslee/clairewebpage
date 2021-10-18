@@ -9,7 +9,18 @@ html {
 }
 
 .titleColor {
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 3.1em;
+    font-style: italics;
+    text-align: center; 
     color:antiquewhite;
+}
+
+.smallText {
+    color:antiquewhite;
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 0.2m;
+    font-style: italics;
 }
 
 .options {
