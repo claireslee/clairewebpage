@@ -24,11 +24,13 @@ html {
 }
 
 .options {
-    text-align:center;
+    text-align: center;
 }
+
 
 .options img {
     display:inline-block;
-    width: 30%;
     margin:0 1% 0 1%;
+    width: 20%;
+    height: auto;
 }

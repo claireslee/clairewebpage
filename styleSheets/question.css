@@ -1,0 +1,28 @@
+
+.textDesign1 {
+    position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+
+  color:antiquewhite;
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 3em;
+    font-style: italics;
+
+}
+
+
+.textDesign2 {
+
+    color:antiquewhite;
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 0.1m;
+    font-style: italics;
+
+}
+
+html {
+    background-color: rgb(167, 168, 218);
+
+}

@@ -11,12 +11,14 @@ html {
 
 .back {
     color:aliceblue;
+    font-family: 'Noto Sans', sans-serif;
 }
 
 .titled {
     font-family: 'Noto Sans', sans-serif;
     color: rgb(233, 187, 233);
     font-size: 3.4em;
+    font-family: 'Noto Sans', sans-serif;
     font-style: italics;
     text-align: center; 
 }
@@ -57,13 +59,15 @@ html {
 
 .tileB {
 	color: white;
-	font-size: 1.3em;
+	font-size: 1.2em;
 	font-style: italics;
+    font-family: 'Noto Sans', sans-serif;
 }
 
 .options {
     text-align:center;
 }
+
 .options img {
     display:inline-block;
     width: 30%;
